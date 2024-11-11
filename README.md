@@ -2,7 +2,7 @@
 
 ###
 
-## About me
+##🙋‍♀️ About me
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-## My Social Medial
+##🌐 My Social Medial
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-## My Techs
+##💡 My Techs
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-## My Stats
+##📈 My Stats
 
 ### 
 
