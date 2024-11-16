@@ -79,6 +79,8 @@
 ## 📈 My Stats
 
 ### 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{bacrocha}/count.svg" alt="bacrocha :: Visitor's Count" /></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bacrocha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
