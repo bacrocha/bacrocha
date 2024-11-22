@@ -2,21 +2,21 @@
 
 ###
 
-## 🙋‍♀️ About me
+## 🙋‍♀️ Quem é a Bá?
 
 ###
 
-- Since the age of 14, I’ve been in the job market where I fell in love with data and technical analysis.
-- Over 10 years of experience with Excel and other tools.
-- Technical operations, reports, and data analysis in Occupational Safety.
-- Currently pursuing a degree in Software Engineering.
-- Currently, I am deepening my knowledge in Python (USP), SQL, and Power BI.<br>
-- Always looking for new opportunities to apply my analytical and technical vision in innovative projects.
+- Desde os 14 anos estou no mercado de trabalho onde me apaixonei por dados e análises técnicas.
+- Mais de 10 anos de experiência com Excel e outras ferramentas.
+- Operações técnicas, relatórios e análise de dados em Segurança do Trabalho.
+- Atualmente cursando Engenharia de Software.
+- Atualmente estou aprofundando meus conhecimentos em Python (USP), SQL e Power BI.<br>
+- Sempre em busca de novas oportunidades para aplicar minha visão analítica e técnica em projetos inovadores.
   
-  Want to know more about my journey? I’d love to!</p>
+  Quer saber mais sobre minha jornada? Eu adoraria!</p>
 
 
-## 🌐 My Social Medial
+## 🌐 Minhas redes sociais
 
 ###
 
@@ -38,9 +38,9 @@
 ###
 
 
-## 💡 My Techs & Tools
+## 💡 Minhas tecnologias e ferramentas
 
-### Programming Languages
+### Linguagens de programação
 
 <div align="left">
   <img width="12" />
@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-### Tools & Technologies
+### Ferramentas e tecnologias
 <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
@@ -76,7 +76,7 @@
 ###
 
 
-## 📈 My Stats
+## 📈 Minhas estatísticas
 
 ### 
 <h4 align="center">Visitor's count :eyes:</h4>
